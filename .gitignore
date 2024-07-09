@@ -1,0 +1,212 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+docs/_site/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Local git configuration
+.gitconfig
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# JetBrains
+.idea/
+.idea/*
+
+# SonarQube
+.sonar/
+scannerwork/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# System files
+*.bak
+*.swp
+*.swo
+*.swn
+*~
+*.pid
+*.seed
+*.backup
+*.bak
+*.orig
+*.rej
+
+# Python egg files
+*.egg
+*.egg-info
+.eggs/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Encrypted files
+*.age
+
+# Data files
+*.dat
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.xlsm
+*.json
+*.xml
+*.yaml
+*.yml
+
+# Binary files
+*.bin
+*.img
+*.iso
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.zip
+*.gz
+*.bz2
+*.xz
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Sphinx generated documentation
+docs/build/
+docs/_build/
+
+# Jekyll site
+_site/
+
+# Node.js dependencies
+node_modules/
+
+# Build directories
+build/
+dist/
