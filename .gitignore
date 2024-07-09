@@ -210,3 +210,34 @@ node_modules/
 # Build directories
 build/
 dist/
+# Virtual Environment
+venv/
+env/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Compiled source
+*.pyc
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Output files
+*.csv
+*.xls
+*.xlsx
+*.html
+*.pdf
+
+# Ignore data folder
+data/
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
